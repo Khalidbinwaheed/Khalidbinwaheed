@@ -1,3 +1,5 @@
+![logo](https://github.com/Khalidbinwaheed/Khalidbinwaheed/blob/main/Black%20and%20Red%20Tech%20Data%20Analyst%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Khalid bin waheed</h1>
 <h3 align="center">A passionate App developer on flutter from Pakistan</h3>
 <img align = "right" alt = "coding" width = "400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
