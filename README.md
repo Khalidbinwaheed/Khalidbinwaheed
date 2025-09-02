@@ -2,6 +2,8 @@
 
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3265332" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3265332" style='border:none;'></iframe>
+
 
 
 <h1 align="center">𝔸𝕆𝔸 👋, 𝕋𝕙𝕚𝕤 𝕚𝕤 𝕂𝕙𝕒𝕝𝕚𝕕 𝔹𝕚𝕟 𝕎𝕒𝕙𝕖𝕖𝕕</h1>
