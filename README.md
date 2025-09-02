@@ -54,7 +54,7 @@
 
 ---
 
-### 🛡️ Cybersecurity & TryHackMe Profile
+### ### 🛡️ Cybersecurity & TryHackMe Profile
 
 <p align="center">
   <a href="https://tryhackme.com/p/3265332" target="_blank">
@@ -65,7 +65,6 @@
 > 🧠 Active on TryHackMe with **[0x8] rank**, over **59 rooms completed**, and **40 days of learning streak**  
 > 🔗 Visit my profile: [tryhackme.com/p/3265332](https://tryhackme.com/p/3265332)
 
----
 
 ### ☕ Support My Work
 
