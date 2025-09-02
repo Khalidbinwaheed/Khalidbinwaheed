@@ -1,6 +1,9 @@
 ![logo](https://github.com/Khalidbinwaheed/Khalidbinwaheed/blob/main/Black%20and%20Red%20Tech%20Data%20Analyst%20LinkedIn%20Banner.png)
 
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3265332" style='border:none;'></iframe>
+
+
 <h1 align="center">𝔸𝕆𝔸 👋, 𝕋𝕙𝕚𝕤 𝕚𝕤 𝕂𝕙𝕒𝕝𝕚𝕕 𝔹𝕚𝕟 𝕎𝕒𝕙𝕖𝕖𝕕</h1>
 <h3 align="center">𝔸 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕗𝕣𝕠𝕟𝕥𝕖𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 ℙ𝕒𝕜𝕚𝕤𝕥𝕒𝕟</h3>
 <img align="right" alt="coding" width="400" src= "https://camo.githubusercontent.com/018efa30f93ed202a5356744ad59b7f4b446bf50d2ea637948f870266170103f/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6233313361395f38396562656330633566333834633635613935353166306331656331386361397e6d76322e676966">
