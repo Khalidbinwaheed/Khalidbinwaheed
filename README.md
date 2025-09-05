@@ -54,6 +54,14 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ### ### 🛡️ Cybersecurity & TryHackMe Profile
 
 <p align="center">
@@ -66,6 +74,18 @@
 > 🔗 Visit my profile: [tryhackme.com/p/3265332](https://tryhackme.com/p/3265332)
 
 
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidbinwaheed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=khalidbinwaheed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=khalidbinwaheed&theme=dark&hide_border=false)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khalidbinwaheed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### ☕ Support My Work
 
 <a href="https://www.buymeacoffee.com/Khalidbinwaheed">
@@ -73,19 +93,10 @@
 </a>
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=khalidbinwaheed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidbinwaheed&show_icons=true&locale=en&layout=compact" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidbinwaheed" />
-</p>
 
----
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
