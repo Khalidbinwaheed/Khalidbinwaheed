@@ -53,6 +53,19 @@
 </p>
 
 ---
+### 🧰 Red Teaming & Cybersecurity Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1F70C1?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ettercap-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bettercap-FF0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Legion-800080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hydra-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge" />
+</p>
 
 <!-- Snake Game Repo View -->
 ### 🐍 Contribution Snake
@@ -62,18 +75,22 @@
 </div>
 
 
-### ### 🛡️ Cybersecurity & TryHackMe Profile
+### 🛡️ Cybersecurity & TryHackMe Profile
 
 <p align="center">
-  <a href="https://tryhackme.com/p/3265332" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/3265332.png" alt="TryHackMe Badge" width="300"/>
+  <a href="https://tryhackme.com/p/khalidbinwaheed" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/khalidbinwaheed.png" alt="TryHackMe Badge" width="300"/>
   </a>
 </p>
 
-> 🧠 Active on TryHackMe with **[0x8] rank**, over **59 rooms completed**, and **40 days of learning streak**  
-> 🔗 Visit my profile: [tryhackme.com/p/3265332](https://tryhackme.com/p/3265332)
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Live_Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rooms_Completed-Dynamic-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning_Streak-Updated-blue?style=for-the-badge" />
+</p>
 
-
+> 🧠 Active on TryHackMe with a growing red team skillset  
+> 🔗 Visit my profile: [tryhackme.com/p/khalidbinwaheed](https://tryhackme.com/p/khalidbinwaheed)
 ---
 
 # 📊 GitHub Stats:
