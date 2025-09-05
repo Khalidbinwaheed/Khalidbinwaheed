@@ -18,6 +18,9 @@
 
 ### ⚡ Fun Fact
 > *You're the ketchup to my mustard.* 😄
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=khalidbinwaheed&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
