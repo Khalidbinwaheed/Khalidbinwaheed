@@ -1,122 +1,586 @@
-![Banner](https://github.com/Khalidbinwaheed/Khalidbinwaheed/blob/main/Black%20and%20Red%20Tech%20Data%20Analyst%20LinkedIn%20Banner.png)
-
-<h1 align="center">𝔸𝕤𝕤𝕒𝕝𝕒𝕞 𝔸𝕝𝕒𝕚𝕜𝕦𝕞 👋, 𝕀'𝕞 𝕂𝕙𝕒𝕝𝕚𝕕 𝔹𝕚𝕟 𝕎𝕒𝕙𝕖𝕖𝕕</h1>
-<h3 align="center">💻 Frontend Developer | 🔍 Forensics Enthusiast | 🇵🇰 Based in Pakistan</h3>
-
----
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/018efa30f93ed202a5356744ad59b7f4b446bf50d2ea637948f870266170103f/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6233313361395f38396562656330633566333834633635613935353166306331656331386361397e6d76322e676966">
-
-### 🚀 Current Focus
-- 🔭 Working on: **Flutter Projects**
-- 🌱 Learning: **DevOps & CI/CD Pipelines**
-- 💬 Ask me about: `C++`, `Python`, `JavaScript`, `Dart`, `HTML`, `CSS`
-
-### 📫 Contact Me
-- Email: **khalidjan6396@gmail.com**
-- WhatsApp: **+92 323 9290092**
-
-### ⚡ Fun Fact
-> *You're the ketchup to my mustard.* 😄
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khalidbinwaheed&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://dev.to/khalidbinwaheed"><img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/khalid-bin-waheed-956a722aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/25022363/khalid-jan"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://instagram.com/engr._.khalid"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/@feathercodecamp"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/captainkhalid20"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/khalidbinwaheed"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
-</p>
-
----
-### 🧰 Red Teaming & Cybersecurity Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1F70C1?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ettercap-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bettercap-FF0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Legion-800080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hydra-228B22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge" />
-</p>
-
-<!-- Snake Game Repo View -->
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-### 🛡️ Cybersecurity & TryHackMe Profile
+  # 𝔸𝕤𝕤𝕒𝕝𝕒𝕞𝕦 𝔸𝕝𝕒𝕚𝕜𝕦𝕞, 𝕀'𝕞 𝕂𝕙𝕒𝕝𝕚𝕕 𝔹𝕚𝕟 𝕎𝕒𝕙𝕖𝕖𝕕
 
 <p align="center">
-  <a href="https://tryhackme.com/p/khalidbinwaheed" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/khalidbinwaheed.png" alt="TryHackMe Badge" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Cybersecurity+Practitioner;Full-Stack+Developer;Flutter+Developer;Security-First+Builder;Future+Founder" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://khalidbinwaheed.dev">
+    <img src="https://img.shields.io/badge/Portfolio-khalidbinwaheed.dev-FF0000?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Khalidbinwaheed">
+    <img src="https://img.shields.io/badge/GitHub-Khalidbinwaheed-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/khalidbinwaheed">
+    <img src="https://img.shields.io/badge/🏆%20TryHackMe-TOP%201%25-FF3131?style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Live_Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rooms_Completed-Dynamic-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning_Streak-Updated-blue?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=khalidbinwaheed&label=Profile%20Views&color=FF0000&style=flat" alt="Profile Views"/>
 </p>
 
-> 🧠 Active on TryHackMe with a growing red team skillset  
-> 🔗 Visit my profile: [tryhackme.com/p/khalidbinwaheed](https://tryhackme.com/p/khalidbinwaheed)
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidbinwaheed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=khalidbinwaheed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=khalidbinwaheed&theme=dark&hide_border=false)
+## 🧑‍💻 About Me
 
+I'm Khalid Bin Waheed, a Computer Science student, Software Engineer, and Cybersecurity practitioner from Pakistan.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khalidbinwaheed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+I build practical software with a security-first mindset.
 
-### ☕ Support My Work
+My main areas of interest are:
 
-<a href="https://www.buymeacoffee.com/Khalidbinwaheed">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
+* 🔐 Cybersecurity
+* 💻 Software Engineering
+* 🌐 Full-Stack Development
+* 📱 Flutter & Mobile Development
+* 🤖 AI & Edge Computing
+* 🛡️ Network & Application Security
+* 🔎 Digital & Network Forensics
+* 📊 Security Monitoring
+* 🚀 Product Development
+* 💼 Entrepreneurship
+
+I enjoy difficult technical problems, hands-on security research, system architecture, automation, and building complete products.
+
+<p align="center">
+  <b>Secure systems. Strong engineering. Real products.</b>
+</p>
 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khalidbinwaheed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 🏆 TryHackMe Top 1%
+
+<p align="center">
+  <a href="https://tryhackme.com/p/khalidbinwaheed">
+    <img src="https://img.shields.io/badge/🏆%20TRYHACKME-TOP%201%25-FF3131?style=for-the-badge"/>
+  </a>
+</p>
+
+I'm actively developing practical cybersecurity skills through hands-on labs, CTFs, security paths, network analysis, and security engineering exercises.
+
+### Cybersecurity Focus
+
+* Network Security
+* Web Application Security
+* Vulnerability Assessment
+* Digital Forensics
+* Network Forensics
+* Threat Hunting
+* SIEM & Log Analysis
+* Linux Security
+* OWASP Top 10
+* Security Hardening
+* MITRE ATT&CK
+* Reconnaissance
+* Security Automation
+
+🔗 [View my TryHackMe profile](https://tryhackme.com/p/khalidbinwaheed)
+
+---
+
+# 🛡️ Cybersecurity
+
+Cybersecurity is one of my primary technical directions.
+
+I focus on understanding both how systems are attacked and how they should be protected.
+
+### Security Areas
+
+```text
+Reconnaissance
+     ↓
+Enumeration
+     ↓
+Vulnerability Assessment
+     ↓
+Exploitation in Authorized Labs
+     ↓
+Traffic Analysis
+     ↓
+Detection
+     ↓
+Hardening
+     ↓
+Security Monitoring
+```
+
+### Security Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot_OS-1793D1?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1F70C1?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bettercap-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge"/>
+</p>
+
+---
+
+# 🧪 Cybersecurity & VMware Home Lab
+
+I maintain a multi-OS VMware laboratory for cybersecurity learning, network analysis, system administration, vulnerability research, and controlled security testing.
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                      VMware Workstation                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                    │
+        ┌───────────────────────────────────────────┼───────────────────────────────────────────┐
+        │                                           │                                           │
+        ▼                                           ▼                                           ▼
+┌──────────────────────┐                  ┌──────────────────────┐                  ┌────────────────────────────┐
+│        LINUX         │                  │       WINDOWS        │                  │     SECURITY LAB           │
+├──────────────────────┤                  ├──────────────────────┤                  ├────────────────────────────┤
+│                      │                  │                      │                  │                            │
+│  🐉 Kali Linux       │                  │  🪟 Windows 10      │                  │  🌐 Cisco Lab              │
+│  🦜 Parrot OS        │                  │  💿 Windows XP      │                  │  🎯 Metasploitable 2       │
+│  🏔️ Arch Linux       │                  │  🖥️ Windows Server  │                  │  🐉 Kali Security Lab      │
+│                      │                  │       2012           │                  │                            │
+└──────────────────────┘                  └──────────────────────┘                  └────────────────────────────┘
+        │                                           │                                           │
+        └───────────────────────────────┬───────────┴───────────────────────────┬───────────────┘
+                                        │                                       │
+                                        ▼                                       ▼
+                              ┌──────────────────────┐               ┌─────────────────────────┐
+                              │       PrimeOS        │               │    Security Testing     │
+                              ├──────────────────────┤               ├─────────────────────────┤
+                              │ Android-based Linux  │               │ Nmap                    │
+                              │ VMware Environment   │               │ Wireshark               │
+                              └──────────────────────┘               │ Burp Suite              │
+                                                                     │ Metasploit              │
+                                                                     │ Hydra                   │
+                                                                     │ John the Ripper         │
+                                                                     │ Nessus                  │
+                                                                     │ Bettercap               │
+                                                                     └─────────────────────────┘
 
 
+```
+### Operating Systems
 
+* 🐉 Kali Linux
+* 🦜 Parrot OS
+* 🏔️ Arch Linux
+* 🤖 PrimeOS
+* 🪟 Windows 10
+* 🪟 Windows XP
+* 🖥️ Windows Server 2012
+* 🎯 Metasploitable 2
+* 🌐 Cisco security/networking lab environments
 
+### Lab Objectives
 
+* Network reconnaissance
+* Port and service enumeration
+* Vulnerability assessment
+* Packet capture analysis
+* Web application testing
+* Windows security analysis
+* Linux security
+* Server security
+* Active Directory concepts
+* Network troubleshooting
+* Exploitation in isolated environments
+* Security monitoring
+* Defensive hardening
+
+All testing is performed in controlled labs, CTF platforms, or systems where I have authorization.
+
+---
+
+# 🔎 Digital & Network Forensics
+
+I enjoy investigating what happens inside systems and networks.
+
+### Areas
+
+* PCAP analysis
+* Network traffic investigation
+* Protocol analysis
+* Suspicious connection analysis
+* Log analysis
+* Windows event analysis
+* Sysmon telemetry
+* Network reconnaissance
+* Evidence-based security investigation
+
+### Tools
+
+`Wireshark` `Nmap` `Kali Linux` `Linux` `Windows Event Logs` `Sysmon`
+
+---
+
+# 🚀 Featured Projects
+
+## 🩸 Blood Donation Platform
+
+A mobile-focused blood donation application designed to connect donors with people who need blood.
+
+### Core Features
+
+* Donor registration
+* Blood group profiles
+* Donor search
+* Location-based discovery
+* Blood request management
+* Emergency requests
+* Donor availability
+* Request status
+* User profiles
+* Notifications
+* Firebase backend
+* Secure authentication
+
+### Technology
+
+`Flutter` `Dart` `Firebase`
+
+The goal is to build a practical system where finding an available donor is fast and straightforward.
+
+---
+
+## 🕌 Ummah One
+
+A community-focused Islamic application developed with a team under my supervision.
+
+### Core Modules
+
+* Quran
+* Adhan
+* Daily routines
+* Duas
+* Hadith
+* Kids Mode
+* Community
+* Learning Hub
+* Firebase-powered content
+
+### Technology
+
+`Flutter` `Dart` `Firebase`
+
+---
+
+## 🏥 Dr. Khan Sardar Hospital Management System
+
+A local-first healthcare management platform designed for clinical and administrative workflows.
+
+### Focus
+
+* Patient management
+* Clinical records
+* Search
+* Administrative workflows
+* Local-first operations
+* Secure data handling
+* Role-based access
+* Structured medical information
+
+### Technology
+
+`React` `TypeScript` `Vite` `Supabase` `TanStack Query`
+
+---
+
+## 🚚 Sheringal Quick Delivery
+
+A delivery platform designed around local delivery operations.
+
+### Platform
+
+* Customer application
+* Vendor management
+* Rider management
+* Admin dashboard
+* Delivery management
+* Live tracking
+* Food delivery
+* Grocery delivery
+* Pharmacy delivery
+* Parcel delivery
+
+### Technology
+
+`React` `TypeScript` `Supabase` `Leaflet` `PWA`
+
+---
+
+## 🌱 PlantCare AI
+
+An AI-powered mobile application focused on plant disease identification and care recommendations.
+
+### Technology
+
+`Flutter` `Dart` `TensorFlow Lite` `Python` `Firebase`
+
+### Focus
+
+* Computer vision
+* On-device AI
+* Image classification
+* Mobile inference
+* Plant disease detection
+
+---
+
+# 🤖 AI & Edge Computing
+
+I'm exploring AI systems that solve practical problems while reducing dependence on cloud infrastructure.
+
+### Areas
+
+* Computer Vision
+* TensorFlow Lite
+* Edge AI
+* On-device inference
+* AI assistants
+* AI agents
+* Local AI
+* Automation
+* Security AI
+* Intelligent developer tools
+
+---
+
+# 💻 Technology Stack
+
+## Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
+</p>
+
+## Web Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+</p>
+
+## Mobile
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/>
+</p>
+
+## Backend & Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/>
+</p>
+
+## DevOps & Development Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+</p>
+
+---
+
+# 📚 Current Learning
+
+### Cybersecurity
+
+* Red Teaming
+* Web Application Security
+* Network Security
+* Digital Forensics
+* Threat Hunting
+* Security Monitoring
+* Vulnerability Research
+
+### Software Engineering
+
+* System Architecture
+* Secure Coding
+* DevOps
+* CI/CD
+* Cloud Infrastructure
+* Backend Engineering
+* Scalable Applications
+
+### AI
+
+* Machine Learning
+* Computer Vision
+* Edge AI
+* AI Agents
+* Local LLMs
+* AI Automation
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Computer Science
+
+Currently completing my BSCS degree.
+
+My academic interests include:
+
+* Operating Systems
+* Computer Networks
+* Cybersecurity
+* Artificial Intelligence
+* Machine Learning
+* Database Systems
+* Software Engineering
+* Algorithms & Data Structures
+
+---
+
+# 🧠 My Engineering Mindset
+
+```text
+Learn
+ ↓
+Experiment
+ ↓
+Build
+ ↓
+Break
+ ↓
+Analyze
+ ↓
+Secure
+ ↓
+Improve
+ ↓
+Deploy
+```
+
+I learn best by building systems, breaking them in controlled environments, investigating what happened, and improving the design.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalidbinwaheed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidbinwaheed&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidbinwaheed&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khalidbinwaheed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://khalidbinwaheed.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  </a>
+  <a href="https://linkedin.com/in/khalid-bin-waheed-956a722aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/khalidbinwaheed">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%201%25-FF3131?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/khalidbinwaheed">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/25022363/khalid-jan">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@feathercodecamp">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/engr._.khalid">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🚀 Where I'm Heading
+
+```text
+Cybersecurity
+       +
+Software Engineering
+       +
+AI
+       +
+Fintech
+       +
+Entrepreneurship
+       ↓
+Secure Technology Products
+       ↓
+Products
+       ↓
+Companies
+```
+
+My long-term goal is to build technology products around difficult problems.
+
+I want to understand the technology deeply, build strong systems, solve real problems, develop capable teams, and eventually lead products at scale.
+
+---
+
+# ⚡ Quick Profile
+
+```text
+🇵🇰 Pakistan
+🎓 Computer Science
+💻 Software Engineer
+🔐 Cybersecurity Practitioner
+🏆 TryHackMe Top 1%
+📱 Flutter Developer
+🌐 Full-Stack Developer
+🤖 AI & Edge Computing
+🔎 Digital & Network Forensics
+🧪 Cybersecurity Lab
+🚀 Product Builder
+💼 Entrepreneur
+```
+
+<p align="center">
+  <b>🔐 Secure. Build. Learn. Lead. 🚀</b>
+</p>
+
+<p align="center">
+  <i>Building systems today. Building companies tomorrow.</i>
+</p>
